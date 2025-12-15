@@ -7,3 +7,5 @@ Das ist von meinem Mac
 Das war ich Jonas Becker
 
 Neue Zeile
+
+Änderung über Pull-Request
